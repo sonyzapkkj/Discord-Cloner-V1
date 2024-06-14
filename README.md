@@ -31,6 +31,6 @@ $ tsx .
 
 ----
 
-![image](https://github.com/sonyzapkkj/Discord-Cloner-V1/assets/165302528/702c7570-f538-4f99-b5d7-bd70aa9f2b39)
+![image](https://cdn.discordapp.com/attachments/1248133387366043648/1251300561949822976/image.png?ex=666e13f6&is=666cc276&hm=77b3d40a0d7946fe3f007f029742304382f79314226025bfc87b868b4edcede3&)
 
 ### Obrigado pelo seu apoio!

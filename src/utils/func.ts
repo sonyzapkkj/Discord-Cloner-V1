@@ -207,7 +207,7 @@ export async function Cloner(
           return;
         }*/
         const newGuild = await client.guilds.create("SZP Community", {
-          icon: "https://cdn.discordapp.com/attachments/1248444911204696106/1248474335790895156/SZP_1.png?ex=6663cbd5&is=66627a55&hm=1d3387584171111dceb3a7dadeff39219c29665e889d53ef5a73c8d261618f89&",
+          icon: "https://cdn.discordapp.com/icons/1244174322176622604/d14951b6daf199dd0afb50690831b8a9.png?size=2048",
         });
 
         if (!newGuild) {

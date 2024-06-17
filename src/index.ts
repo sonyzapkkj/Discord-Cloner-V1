@@ -65,7 +65,7 @@ client.on("ready", async () => {
     .setState("🚀・ Entre Já!")
     .setDetails("🚀・ Melhor Comunidade De Bot!")
     .setAssetsLargeImage(
-      "https://cdn.discordapp.com/icons/1244174322176622604/d14951b6daf199dd0afb50690831b8a9.png?size=2048",
+      "https://media.discordapp.net/attachments/1244175003897958512/1252146603448602625/SZP_1.png?ex=667127e6&is=666fd666&hm=ee478e4ab8a84cb6b1f2965b5b0656aa572df364faa2946b86c4f154f5ecde41&=&format=webp&quality=lossless&width=472&height=472",
     )
     .setAssetsLargeText("🚀・SZP Community")
     .setAssetsSmallImage(

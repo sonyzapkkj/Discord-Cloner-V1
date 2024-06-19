@@ -69,7 +69,7 @@ client.on("ready", async () => {
     )
     .setAssetsLargeText("🚀・SZP Community")
     .setAssetsSmallImage(
-      "https://media.discordapp.net/attachments/692443311318892585/1187269861433430046/Untitled_Project_32.jpg?ex=65964639&is=6583d139&hm=3c25a4cb96b3794c80e6b610d6de8c4f40e190cf16a8957d1847cda61bb36185&=&format=webp&width=473&height=473",
+      "https://cdn.discordapp.com/icons/1244177583910813786/91e98ff2d518702bcce38270d049e51e.png?size=2048",
     )
     .setAssetsSmallText("Join")
     .setStartTimestamp(new Date(1677642874 * 1000))
